@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![사진1](https://user-images.githubusercontent.com/104435465/230518627-20b4d866-ef75-4e2a-b215-48d7ba1bb892.JPG)
+
+ 1 | 2 | 3 | 4 | 5
+---|---|---|---|---
+ 가 | 나 | 다 | 라 | 마
